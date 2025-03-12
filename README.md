@@ -44,18 +44,17 @@ The program utilizes linked lists to manage clients and accounts efficiently:
   - `chercher_acc()`: Searches for an account by RIB.
   - `afficher()`: Displays all accounts.
   - `menu()`: Main menu function to navigate through options.
- ## TRIAL
-  **Client interface :**
-  <br>
-  [client interface ](int1.png)
-  [client interface](int11.png)
-  <br>
-  **Account interface :**
-  <br>
-  [acc interface ](int2.png)
-  [acc interface](int22.png)
-  <br>
-  **Operation interface :**
-  [operation interface ](int3.png)
-  [operation interface](int33.png)
-  
+
+## TRIAL
+
+### Client Interface:
+![Client Interface 1](int1.png)
+![Client Interface 2](int11.png)
+
+### Account Interface:
+![Account Interface 1](int2.png)
+![Account Interface 2](int22.png)
+
+### Operation Interface:
+![Operation Interface 1](int3.png)
+![Operation Interface 2](int33.png)
